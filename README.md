@@ -32,19 +32,10 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Navyasree123&show_icons=true&theme=github_dark" width="450" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navyasree123&theme=github-dark-blue" width="450"/>
-</p>
-
----
-
 ### 🚀 My Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navyasree123&layout=compact&theme=github_dark&langs_count=6" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navyasree-ulava&layout=compact&theme=github_dark&langs_count=6" width="400" />
 </p>
 
 ---
