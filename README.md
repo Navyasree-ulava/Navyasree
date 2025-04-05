@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Developer | Web & App Dev Enthusiast | Lifelong Learner 🚀</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Giphy" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Giphy" />
 </p>
 
 ---
@@ -10,7 +10,6 @@
 ### 👩‍💻 About Me
 
 - 🌱 I’m currently learning **Flask, React, and Blockchain Fundamentals**
-- 💼 Selected for **Amazon 2025 Summer Internship**
 - 📚 BTech CSE @ **SRM AP University**
 - 👯 I’m looking to collaborate on **Full-Stack Projects & Open Source**
 - ⚡ Fun fact: I love clean code and coffee ☕💻
