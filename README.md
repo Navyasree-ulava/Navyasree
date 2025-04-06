@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Developer | Web & App Dev Enthusiast | Lifelong Learner 🚀</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Giphy" />
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="500" alt="Girl Coding GIF" />
 </p>
 
 ---
