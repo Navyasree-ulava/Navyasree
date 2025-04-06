@@ -1,12 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Navyasree</h1>
 <h3 align="center">Aspiring Software Developer | Web & App Dev Enthusiast | Lifelong Learner 🚀</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="500" alt="Girl Coding GIF" />
-</p>
-
----
-
 ### 👩‍💻 About Me
 
 - 🌱 I’m currently learning **Flask, React, and Blockchain Fundamentals**
