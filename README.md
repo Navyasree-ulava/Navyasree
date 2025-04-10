@@ -37,8 +37,7 @@
 ### 📫 Reach Me On
 
 - 📧 Email: navyasree@email.com
-- 💼 [LinkedIn](https://linkedin.com/in/navyasree)
-- 🌐 Portfolio: Coming soon...
+- 🌐 [LinkedIn](https://linkedin.com/in/navyasree)
 
 ---
 
